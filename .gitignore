@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs & temp
+*.log
+npm-debug.log*
+.tmp/
+.screenshots/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies & build (not used currently, kept for future)
+node_modules/
+dist/
+coverage/
