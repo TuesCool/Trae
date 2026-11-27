@@ -2,8 +2,8 @@
 
 一个高级感的个人任务看板：用「待办 / 进行中 / 已完成」三列管理当天任务，顶部以超大细体数字和环形进度呈现完成度，数据保存在本地，刷新不丢失。
 
-- **在线体验**：https://37mba1mzk18hssq42wk.traesite.cn
-- **GitHub Pages**：https://tuescool.github.io/Trae/
+- **在线体验（GitHub Pages）**：https://tuescool.github.io/Trae/
+- **备用演示（旧版）**：https://37mba1mzk18hssq42wk.traesite.cn
 - **仓库地址**：https://github.com/TuesCool/Trae
 - **技术形态**：单文件静态页面（HTML + CSS + 原生 JavaScript），零依赖、零构建
 
